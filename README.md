@@ -16,20 +16,4 @@ This repository contains two backend microservices developed to solve distinct p
    ```bash
    git clone <repository-url>
    cd <repository-folder>
-<repository-name>/
-├── average-calculator/
-│   ├── index.js          # Main code for the Average Calculator microservice
-│   ├── package.json      # Dependencies and scripts for average-calculator
-│   ├── .gitignore        # Ignores node_modules/
-│   ├── screenshots/      # Screenshots for this microservice
-│   │   ├── avg_calc_e.png    # Example: Screenshot of GET /numbers/e
-│   │   ├── avg_calc_p.png    # Example: Screenshot of GET /numbers/p
-├── social-media-analytics/
-│   ├── index.js          # Main code for the Social Media Analytics microservice
-│   ├── package.json      # Dependencies and scripts for social-media-analytics
-│   ├── .gitignore        # Ignores node_modules/
-│   ├── screenshots/      # Screenshots for this microservice
-│   │   ├── top_users.png     # Example: Screenshot of GET /users
-│   │   ├── latest_posts.png  # Example: Screenshot of GET /posts?type=latest
-│   │   ├── popular_posts.png # Example: Screenshot of GET /posts?type=popular
-└── README.md             # Main project overview and instructions
+
